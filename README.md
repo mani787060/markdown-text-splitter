@@ -227,8 +227,3 @@ Possible extensions to this project include:
 
 ---
 
-## 🔗 Repository
-
-GitHub: https://github.com/mani787060/markdown-text-splitter
-
-**Project Focus:** Markdown Text Splitting | LangChain | Recursive Character Splitting | RAG Preprocessing
