@@ -224,6 +224,3 @@ Possible extensions to this project include:
 - Processing external Markdown files instead of sample text.
 - Converting generated chunks into LangChain `Document` objects.
 - Integrating the chunks with embedding models and vector databases.
-
----
-
